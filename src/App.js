@@ -14,15 +14,12 @@ class App extends Component {
       <div>
 
 
-        <div style={{zIndex:'3', left:'460px', top:'146px', textAlign:'center', border:'4px solid black', position:'absolute', borderRadius:'50%', height:'60px', width:'60px', backgroundColor:'#2C8B42', background: 'linear-gradient(180deg, #2C8B42 50%, #206030 50%)'}}>
+        <div style={{cursor:'pointer', zIndex:'3', left:'460px', top:'146px', textAlign:'center', border:'4px solid black', position:'absolute', borderRadius:'50%', height:'60px', width:'60px', backgroundColor:'#2C8B42', background: 'linear-gradient(180deg, #2C8B42 50%, #206030 50%)'}}>
           <strong style={{fontSize:'46px', color:'white'}}>J</strong>
         </div>
 
         <div style={style2}>
         </div>
-
-
-
 
 
 

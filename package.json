@@ -2,8 +2,8 @@
   "name": "baranimation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://josephkoon.github.io/sportoco_test/",
-  
+  "homepage": "https://josephkoon.github.io/sportoco_test",
+
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",

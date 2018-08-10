@@ -9,9 +9,9 @@ strong{
 }
 
 .btn:hover{
-	background-color:yellow!important;
+	/*background-color:yellow!important;*/
 	cursor:pointer;
-	-webkit-transition: .5s;
+/*	-webkit-transition: .5s;*/
 }
 
 

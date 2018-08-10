@@ -15,7 +15,7 @@ class App extends Component {
 
   render() {
 
-    var yellow = {webkitTransition:'.1s', backgroundColor:'yellow', borderRadius:'50px 50px 50px 50px'}
+    var yellow = {backgroundColor:'yellow', borderRadius:'50px 50px 50px 50px'}
     var noYellow = {}
 
 
